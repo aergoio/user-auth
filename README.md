@@ -25,3 +25,13 @@ the user account address
 The dApp must listen to events from the `user-auth` contract. Once it receives
 the `approve` event it can check if it matches some unique_id it is waiting for
 and also check if the account address matches the user's account address
+
+
+### Contract Addresses
+
+| Chain   | Address |
+| ------- | ------- |
+| Mainnet | [AmhBGafBM3UrR3Mxr7tY2ibRhrCAX7zJVafeMcLBrdKbiBY2Mb2o](https://mainnet.aergoscan.io/account/AmhBGafBM3UrR3Mxr7tY2ibRhrCAX7zJVafeMcLBrdKbiBY2Mb2o/?tab=interactive) |
+| Testnet | [AmgzdhMNCfCWpWMqout9aammdTzP7Q8X7Nx3pn9FCrAmzPYJDhJ7](https://testnet.aergoscan.io/account/AmgzdhMNCfCWpWMqout9aammdTzP7Q8X7Nx3pn9FCrAmzPYJDhJ7/?tab=interactive) |
+| Alphanet |  |
+
